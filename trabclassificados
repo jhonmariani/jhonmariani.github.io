@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>CLASSIFICADOS DO DIA</title>
+</head>
+<body>
+<main>
+    <center><h1>CLASSIFICADOS DO DIA</h1>
+    <br>
+    <p>Quer realizar o sonho de ter um carro importado?? Aqui vai algumas dicas da WebMotors!!</p></center>
+    <br>
+    <div id="img">
+        <img src="img/audi.jpg" alt="adui">
+        <img src="img/bmw.jpg" alt="bmw">
+        <img src="img/porsche.jpg" alt="porsche">
+    </div>
+    <div id="Texto"> 
+        <h4>1 - AUDI RS5 2.9 V6 TFSI GASOLINA SPORTBACK QUATTRO S-TRONIC</h4>
+        <p>ÚNICO DONO, GARANTIA DE FÁBRICA e Placa de SC. Motor V6 Bi-turbo de 450cv ANO 2020/21 COM APENAS 12 MIL KM</p>
+        <a href="https://www.webmotors.com.br/comprar/audi/rs5/29-v6-tfsi-gasolina-sportback-quattro-s-tronic/4-portas/2020-2021/42655430?pos=a42655430g:&np=2">
+            Para mais informações clique aqui.
+        </a>
+ <br>      
+        <h4>2 - BMW M3 3.0 I6 TWINTURBO GASOLINA COMPETITION M STEPTRONIC</h4>
+        <p>IPVA 22 PAGO TOTAL - ESTADO DE ZERO KM COMO NA CSS - SIM, EXTREMAMENTE NOVA E CUIDADA! ANO 2021/20 COM 800KM</p>
+        <a href="https://www.webmotors.com.br/comprar/bmw/m3/30-i6-twinturbo-gasolina-competition-m-steptronic/4-portas/2021-2022/40387558?pos=a40387558g:&np=3">
+                Para mais informações clique aqui.
+            </a>
+ <br>
+        <h4>3 - PORSCHE 911 3.0 24V H6 GASOLINA CARRERA PDK</h4>
+        <p>Veículo com Certificado Porsche Approved (1 ano de garantia adicional), Sistema de escape esportivo. ANO 2019/2020</p>
+        <a href="https://www.webmotors.com.br/comprar/porsche/911/30-24v-h6-gasolina-carrera-pdk/2-portas/2019-2020/43408663?pos=r43408663m:&np=1">
+                Para mais informações clique aqui.
+        </a>
+<br>  
+    </div>
+    <br>
+    <br>
+    <center><h2 >PREVISÃO DO TEMPO PARA JOINVILLE ESSA SEMANA</h2></center>
+        <div id="previsao">
+            <center><img src="img/Screenshot_1.png" alt="previsao do tempo"></center>
+        </div>
+<br>
+    <div>
+        <br>
+        <center><h2>ACONTECEU EM JOINVILLE</h2></center>
+        <div id="reportagem"></div>
+            <center><img src="img/reportagem.webp" alt="reportagem"></center>
+            <p>Um homem de 30 anos foi preso no domingo (12) após ameaçar e manter reféns a mulher, o filho e uma vigilante dentro de um condomínio residencial no bairro Jardim Paraíso, em Joinville, no Norte catarinense.Segundo a Polícia Militar, a mulher do suspeito, de 28 anos, disse aos agentes que ele teria tido um surto depois que a família desceu para o parquinho do condomínio e ela foi cumprimentada por morador.
+
+                Segundo a vítima, o homem teria partido para cima dela, mas ela conseguiu fugir e se abrigar com o filho dentro da guarita do prédio. O homem então rendeu a vigilante, de 35 anos, que estava dentro da cabine. Enquanto isso, a vítima conseguiu fugir com a criança pela janela do banheiro.</p>
+
+    </div>
+
+    
+</body>
+
+</html>
